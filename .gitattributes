@@ -1,1 +1,3 @@
-External Libs/** linguist-vendored
+* linguist-vendored
+*.cpp linguist-vendored=false
+*.c linguist-vendored=false
